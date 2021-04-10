@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AarushChaudhary
-- 👀 I’m interested in - C/C++, Java/JAvascript, Python and C#
-- 🌱 I’m currently learning - C++ and Python
+- 👀 I’m interested in - C/C++, Java/Javascript, Python and C#
+- 🌱 I’m currently learning - C/C++ and Python
 - 💞️ I’m looking to collaborate on - Python Projects
 - 📫 How to reach me - aarushchaudhary1@hotmail.com
 
