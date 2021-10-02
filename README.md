@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LASTSECRET987
-- 👀 I’m interested in - C++, C#, Java, Python
+- 👀 I’m interested in - C++, C#, Python, Kotlin and FLutter (Dart)
 - 🌱 I’m currently learning - C++ and Python
 - 💞️ I’m looking to collaborate on - C++ and Python Projects
 - 📫 How to reach me - https://matrix.to/#/!YLzMRKKygGfUtQZgQy:matrix.org?via=matrix.org
